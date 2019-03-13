@@ -1,0 +1,25 @@
+{
+  "data": [
+    "/location",
+    "/location/address",
+    "/location/city",
+    "/location/zipcode",
+    "/finance/credit_score",
+    "/contact/name",
+    "/contact/email_address",
+    "/contact/phonenumber",
+    "/id/account_number",
+    "/id/us_social_security_number",
+    "/id/credit_card_number",
+    "/interest/product",
+    "/bio/age",
+    "/profession/job_title",
+    "/other/number",
+    "/other/datetime",
+    "/other/datetime/date",
+    "/other/datetime/month",
+    "/other/datetime/year",
+    "/other/organization",
+    "/other/organization/company"
+  ]
+}
